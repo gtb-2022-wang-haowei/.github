@@ -3,4 +3,4 @@ An IT man.
 
 Nothing to say.
 
-<img src="../assets/back.jpg" alt="me-and-my-baby" width="50%" />
+<img src="../assets/back.jpg" alt="back" width="50%" />
